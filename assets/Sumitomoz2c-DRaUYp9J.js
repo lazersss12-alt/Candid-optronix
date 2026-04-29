@@ -1,1 +1,0 @@
-var e=`/assets/Sumitomoz2c-l1LTFijz.pdf`;export{e as t};

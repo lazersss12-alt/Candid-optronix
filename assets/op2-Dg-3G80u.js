@@ -1,1 +1,0 @@
-var e=`/assets/op2-BVJ_huOu.webp`;export{e as t};

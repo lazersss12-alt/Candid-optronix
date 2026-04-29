@@ -1,1 +1,0 @@
-var e=`/assets/op821gwv-Daf7gPUU.pdf`;export{e as t};

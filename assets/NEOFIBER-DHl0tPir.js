@@ -1,1 +1,0 @@
-var e=`/assets/NEOFIBER-Dc_cxwN0.pdf`;export{e as t};

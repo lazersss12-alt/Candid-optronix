@@ -1,1 +1,0 @@
-var e=`/assets/S-70-CCu7ypF2.png`,t=`/assets/S-70-BxzL5yWQ.pdf`;export{e as n,t};

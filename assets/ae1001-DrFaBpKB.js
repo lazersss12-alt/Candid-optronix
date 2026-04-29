@@ -1,1 +1,0 @@
-var e=`/assets/ae1001-BGfVD6XP.pdf`;export{e as t};

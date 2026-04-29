@@ -1,1 +1,0 @@
-var e=`/assets/sumitomo82cplus-Dhoc6whg.pdf`;export{e as t};

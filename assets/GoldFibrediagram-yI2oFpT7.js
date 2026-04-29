@@ -1,1 +1,0 @@
-var e=`/assets/GoldFibrediagram-B0lmIn76.webp`;export{e as t};

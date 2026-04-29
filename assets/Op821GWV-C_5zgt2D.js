@@ -1,1 +1,0 @@
-var e=`/assets/Op821GWV-C3b4W6KR.webp`;export{e as t};
