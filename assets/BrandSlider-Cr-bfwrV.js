@@ -1,4 +1,4 @@
-import{a as e,n as t,t as n}from"./jsx-runtime-lZ6iXXV-.js";import{n as r}from"./chunk-UH6JLGW7-Tnl0MODz.js";/* empty css                   */import{n as i,r as a,t as o}from"./partner-BDAe8fnt.js";var s=`/assets/SUMITOMOupdated-B0Pv7KdH.webp`,c=e(t()),l=n(),u=`
+import{a as e,n as t,t as n}from"./jsx-runtime-lZ6iXXV-.js";import{n as r}from"./chunk-UH6JLGW7-Tnl0MODz.js";/* empty css                   */import{n as i,r as a,t as o}from"./partner-BXYqjTJp.js";var s=`/assets/SUMITOMOupdated-B0Pv7KdH.webp`,c=e(t()),l=n(),u=`
   .partners-section {
     padding: 20px 0;
     background: transparent !important;
