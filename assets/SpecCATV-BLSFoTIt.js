@@ -1,0 +1,1 @@
+import{r}from"./rolldown-runtime-CvE4vn4U.js";import{w as e}from"./vendor-eAOYfWaj.js";import{t}from"./vendor-react-IX9OWz7_.js";var p=r(e()),i=t(),_=()=>(0,i.jsx)("div",{children:"SpecCATV"});export{_ as default};
